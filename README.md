@@ -1,0 +1,1 @@
+This is an [Inquire](https://github.com/mikaelmello/inquire) example project. It demonstrates how to use Inquire to create a simple CLI application that reads a variable of fruits and then show some options for the user to manipulate the list, all using the Inquire interactive CLI interface.
